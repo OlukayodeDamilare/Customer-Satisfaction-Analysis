@@ -1,14 +1,10 @@
 # Customer-Satisfaction-Analysis
 
+# Executive Summary
+Businesses often focus on aggregate customer satisfaction scores, but these averages hide critical insights about what drives loyalty or frustration. This project identifies the key drivers of satisfaction and uncovers which customer segments need attention, enabling targeted, actionable improvements.
+
 ## Project Overview
-Customer satisfaction is more than a single score — it is a signal of product health, usability, and long-term retention.
-
-This project analyzes customer satisfaction data to identify:
-- What drives satisfaction
-- Where customers are most dissatisfied
-- Which customer segments should be prioritized for improvement
-
-The goal is to move beyond averages and provide *actionable, segment-based insights*.
+Customer satisfaction is more than a single score — it signals product health, usability, and long-term retention. The goal of this project is to move beyond averages and provide segment-based insights that support better decision-making.
 
 ---
 
@@ -32,6 +28,10 @@ The goal is to move beyond averages and provide *actionable, segment-based insig
   - Support Availability
 
 ---
+Metrics & KPI Definitions
+	•	Satisfaction Score: 1–10 scale from customer survey
+	•	Support Usage: % of customers who contacted support
+	•	Key Drivers: Factors most correlated with customer satisfaction.
 
 ## Tools & Skills Used
 - Power BI
@@ -66,11 +66,25 @@ The goal is to move beyond averages and provide *actionable, segment-based insig
 
 ---
 
-## What I’d Improve With More Data
-- Longitudinal data to track satisfaction trends over time
-- Behavioral data to complement survey responses
-- Customer churn and retention metrics
-- Product usage analytics
+## Future Improvements / What I’d Do With More Data
+•	Track satisfaction trends over time with longitudinal data
+	•	Incorporate behavioral data to complement survey responses
+	•	Include customer churn and retention metrics
+	•	Analyze product usage analytics to identify friction points.
+	
+Dashboard Walkthrough
 
-  ## Dashboard Preview
-Screenshots of the interactive dashboard are available in the /images folder.
+The dashboard starts with an overview of satisfaction trends, followed by key driver analysis and segment-level insights. Each section is designed to guide the user toward actionable decisions.
+	•	Screenshots of the interactive dashboard are available in the /images folder.
+
+  Assumptions & Limitations
+	•	Survey responses are self-reported
+	•	Small sample size (120 records)
+	•	Behavioral and churn data are not included
+	•	Insights may not generalize beyond this dataset.
+
+  Call to Action
+
+Feedback or suggestions are welcome — always looking to improve data storytelling and dashboard design.
+
+
