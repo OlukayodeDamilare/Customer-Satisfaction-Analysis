@@ -63,7 +63,7 @@ Customer satisfaction is more than a single score — it signals product health,
 - Enhance feature clarity for younger customers
 - Revisit pricing perception for older users
 - Reduce support dependency by fixing upstream usability issues
-- Personalize experience improvements by customer segment
+- Personalize experience improvements by customer segment.
 
 ---
 
@@ -88,5 +88,7 @@ The dashboard starts with an overview of satisfaction trends, followed by key dr
   # Call to Action
 
 Feedback or suggestions are welcome, always looking to improve data storytelling and dashboard design.
+
+
 
 
