@@ -15,7 +15,7 @@ Customer satisfaction is more than a single score — it signals product health,
 
 ## Dataset Description
 - Total records: 120 customers
-- Data type: Simulated / anonymized customer survey data
+- Data type: Simulated customer survey data
 - Key fields include:
   - Age
   - Gender
@@ -28,10 +28,11 @@ Customer satisfaction is more than a single score — it signals product health,
   - Support Availability
 
 ---
-Metrics & KPI Definitions
-	•	Satisfaction Score: 1–10 scale from customer survey
-	•	Support Usage: % of customers who contacted support
-	•	Key Drivers: Factors most correlated with customer satisfaction.
+# Metrics & KPI Definitions
+- Satisfaction Score: 1–10 scale from customer survey
+- Support Usage: % of customers who contacted support
+- Key Drivers: Factors most correlated with customer satisfaction.
+
 
 ## Tools & Skills Used
 - Power BI
@@ -67,24 +68,25 @@ Metrics & KPI Definitions
 ---
 
 ## Future Improvements / What I’d Do With More Data
-•	Track satisfaction trends over time with longitudinal data
-	•	Incorporate behavioral data to complement survey responses
-	•	Include customer churn and retention metrics
-	•	Analyze product usage analytics to identify friction points.
+- Track satisfaction trends over time with longitudinal data
+- Incorporate behavioral data to complement survey responses
+- Include customer churn and retention metrics
+- Analyze product usage analytics to identify friction points.
 	
-Dashboard Walkthrough
+# Dashboard Walkthrough
 
 The dashboard starts with an overview of satisfaction trends, followed by key driver analysis and segment-level insights. Each section is designed to guide the user toward actionable decisions.
 	•	Screenshots of the interactive dashboard are available in the /images folder.
 
-  Assumptions & Limitations
-	•	Survey responses are self-reported
-	•	Small sample size (120 records)
-	•	Behavioral and churn data are not included
-	•	Insights may not generalize beyond this dataset.
+  # Assumptions & Limitations
 
-  Call to Action
+  - Survey responses are self-reported
+  - Small sample size (120 records)
+  - Behavioral and churn data are not included
+  - Insights may not generalize beyond this dataset.
+ 
+  # Call to Action
 
-Feedback or suggestions are welcome — always looking to improve data storytelling and dashboard design.
+Feedback or suggestions are welcome, always looking to improve data storytelling and dashboard design.
 
 
