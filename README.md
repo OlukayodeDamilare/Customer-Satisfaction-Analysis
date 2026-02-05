@@ -75,8 +75,10 @@ Customer satisfaction is more than a single score — it signals product health,
 	
 # Dashboard Walkthrough
 
-The dashboard starts with an overview of satisfaction trends, followed by key driver analysis and segment-level insights. Each section is designed to guide the user toward actionable decisions.
-	•	Screenshots of the interactive dashboard are available in the /images folder.
+The dashboard starts with an overview of satisfaction trends, followed by key driver analysis and segment-level insights. Each section is designed to guide the user toward actionable decisionS.
+
+
+•	Screenshots of the interactive dashboard are available in the /images folder and below as well.
 
 
 [customer satisfaction IMAGE](https://github.com/user-attachments/assets/7b5338f2-adfe-4c52-bd00-05493e7520ed)
